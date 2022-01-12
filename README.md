@@ -56,8 +56,6 @@
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
 </p>
 
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lanuitblanche&show_icons=true&locale=en" alt="lanuitblanche" />
-</p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=laNuitBlanche&count_private=true&show_icons=true&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lanuitblanche&" alt="lanuitblanche" /></p>
