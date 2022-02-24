@@ -59,3 +59,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=laNuitBlanche&count_private=true&show_icons=true&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lanuitblanche&" alt="lanuitblanche" /></p>
+
+#### Genshin Impact
+
+![](https://genshin-card.getloli.com/detail/18/5888253.png)
